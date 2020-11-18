@@ -9,7 +9,7 @@ Record a signal to a file with a unique name
 
 * __Inputs__: Left Inlet-Signal. Right Inlet-"0" or "1" Message
 * __Outputs__: Float
-* __Desc__: Records to ~/Drop
+* __Desc__: You'll probably want to change the record-path value
 
 ![ez-record](screenshots/ez-record.png)
 
